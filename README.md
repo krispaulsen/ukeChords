@@ -1,9 +1,11 @@
 # ukeChords
-ukeChords is a jQuery plugin that builds and displays *ukulele* chord diagrams on a canvas element.
+ukeChords is a jQuery plugin that builds and displays **ukulele** chord diagrams on a canvas element.
 
 ## Usage
-First, load jQuery and the plugin:
+First, load jQuery, the plugin, and the stylesheet:
 ```html
+<link rel="stylesheet" type="text/css" href="ukeChords/jquery.ukeChord.css" />
+
 <script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
 <script src="ukeChords/jquery.ukeChord.js"></script>
 ```
