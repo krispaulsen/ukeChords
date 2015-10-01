@@ -1,0 +1,18 @@
+.chordDiagram{
+	float: left;
+	margin: 10px;
+	border: 1px solid rosybrown;
+	border-top-left-radius: 18px;
+	border-top-right-radius: 18px;
+	border-bottom: none;
+	box-shadow: 2px 2px 6px rgba(0,0,0,0.4);
+	background-color: white;
+}
+.chordDiagram .ukeChord-name{
+	text-align: center;
+	line-height: 14px;
+	padding-top: 4px;
+}
+.chordDiagram canvas{
+	display: block;
+}
